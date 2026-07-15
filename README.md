@@ -66,9 +66,13 @@ We may update this Privacy Policy periodically. [1]
 8. Contact Information
 
 Henry A. McCleary, DC, LLC
+
 Dr. Mac’s Medical Pain Management & Wellness CTR
+
 2241 C Tackett's Mill Drive, Suite # C
+
 Woodbridge, VA 22192, USA
 
 Email: hmacws@gmail.com
+
 Phone: +1 (703) 463-4644
