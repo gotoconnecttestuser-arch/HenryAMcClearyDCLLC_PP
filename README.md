@@ -37,15 +37,14 @@ You may opt out of SMS communications at any time by replying STOP to any messag
 
 For assistance, reply HELP or contact us using the information below. [1]
 
-4. Sharing of Information
+4. Data Sharing and Transfer
+
+Your data will not be transferred to external organizations except as strictly necessary to provide the SMS service or when required by law.
+Your data is never shared for marketing, promotional, or unrelated purposes.
 
 We do not sell, rent, or share your personal information with third parties for marketing or promotional purposes.
 
-We may share your information only with trusted service providers that assist in operating our messaging and communication services, and only as necessary to provide those services. These providers are required to protect your information and may not use it for any other purpose.
 
-Mobile opt-in data and consent information will not be shared with third parties or affiliates for marketing or promotional purposes.
-
-We may disclose information if required to do so by law or applicable regulations.
 
 5. Protection of Information
 
